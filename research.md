@@ -1,7 +1,7 @@
 # Step 1: Research & Problem Identification
 
 ## The Problem (5 lines)
-At the Chenab Hostel Mess (NIT Srinagar), the kitchen prepares food for an arbitrary baseline of ~360 registered hostellers every single day without dynamic demand forecasting. 
+At the Jhelum Hostel Mess (NIT Srinagar), the kitchen prepares food for an arbitrary baseline of ~360 registered hostellers every single day without dynamic demand forecasting. 
 Turnout fluctuates wildly between 190 and 355 students depending on the specific day, menu item (chicken/paneer vs. dal/lauki), Friday prayers, and weekend campus leaves.
 Because running short on food causes immediate student complaints and hostel committee agitation, the head cook systematically over-prepares rice, lentils, and flatbreads.
 Consequently, between 12 kg and 28 kg of cooked edible food is dumped into waste drums twice daily, costing the student mess committee thousands of rupees in wasted ration fees each week.
@@ -11,7 +11,7 @@ The kitchen lacks any quantitative feedback loop between yesterday's leftover bi
 
 ## Target Person
 * **Name**: Shabir Ahmad Dar
-* **Role**: Head Cook & Mess Inventory Supervisor, Chenab Hostel Mess, NIT Srinagar (Hazratbal, Srinagar)
+* **Role**: Head Cook & Mess Inventory Supervisor, Jhelum Hostel Mess, NIT Srinagar (Hazratbal, Srinagar)
 
 ---
 

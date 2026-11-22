@@ -5,12 +5,12 @@
 
 **Response (AI)**:
 > Here are 3 grounded, physical ideas near NIT Srinagar:
-> 1. Chenab Hostel Mess: Predicting dynamic daily meal headcount & preventing 20+ kg food waste based on menu popularity (Paneer vs Lauki), Jumma prayers, and Sunday weekend leaves. Target person: Head Cook / Mess Supervisor.
+> 1. Jhelum Hostel Mess: Predicting dynamic daily meal headcount & preventing 20+ kg food waste based on menu popularity (Paneer vs Lauki), Jumma prayers, and Sunday weekend leaves. Target person: Head Cook / Mess Supervisor.
 > 2. Campus Xerox Shop: Queue dispatch optimizer for semester exam spiral binding vs single-page prints.
 > 3. Dal Lake / Hazratbal Kiosk: Predicting fresh milk and bread packet reorders based on morning fog and student footfall.
 
 **Prompt 2 (User)**:
-> Let's go with the Hostel Mess Food Waste & Headcount Forecaster at Chenab Hostel Mess for head cook Shabir Ahmad Dar. What should research.md and fieldwork.md cover according to the prompt instructions?
+> Let's go with the Hostel Mess Food Waste & Headcount Forecaster at Jhelum Hostel Mess for head cook Shabir Ahmad Dar. What should research.md and fieldwork.md cover according to the prompt instructions?
 
 **Response (AI)**:
 > For Step 1, research.md needs:

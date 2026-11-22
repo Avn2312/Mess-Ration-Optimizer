@@ -1,6 +1,6 @@
-# Chenab Mess Ration & Food Waste Forecaster (NIT Srinagar)
+# Jhelum Mess Ration & Food Waste Forecaster (NIT Srinagar)
 
-* **Location**: Chenab Hostel Mess, Ground Floor, National Institute of Technology (NIT) Srinagar, Hazratbal, Srinagar, J&K 190006
+* **Location**: Jhelum Hostel Mess, Ground Floor, National Institute of Technology (NIT) Srinagar, Hazratbal, Srinagar, J&K 190006
 * **Target Person**: **Shabir Ahmad Dar**, Head Cook & Mess Inventory Supervisor
 * **Fieldwork Date**: November 22, 2026
 * **Repository**: Public Git Repo for 1-Day Take-Home SDE Assessment
@@ -9,7 +9,7 @@
 
 ## 1. Problem & Context
 
-At the Chenab Hostel Mess (360 registered students), head cook Shabir Ahmad Dar prepares fixed bulk quotas of food every single day (35 kg dry rice, 28 kg flour, 18 kg dal). However, actual student turnout fluctuates wildly between 180 and 355 students depending on:
+At the Jhelum Hostel Mess (360 registered students), head cook Shabir Ahmad Dar prepares fixed bulk quotas of food every single day (35 kg dry rice, 28 kg flour, 18 kg dal). However, actual student turnout fluctuates wildly between 180 and 355 students depending on:
 1. **The Scheduled Menu**: Peak turnout on Chicken/Paneer nights vs. massive absenteeism on Lauki/Kaddu days.
 2. **Calendar Patterns**: Friday afternoon Jumma Namaz dispersal near Hazratbal Shrine and Sunday night street-food outings.
 3. **Srinagar Weather**: Sub-5°C cold fog evenings trap students in hostel rooms making Maggi or snacking.
@@ -54,7 +54,7 @@ Running `python3 app.py --day Sunday --meal Dinner --menu "Kaddu / Pumpkin Dal &
 
 ```text
 =================================================================
-  CHENAB HOSTEL MESS — NIT SRINAGAR | KITCHEN ACTION SLIP
+  JHELUM HOSTEL MESS — NIT SRINAGAR | KITCHEN ACTION SLIP
   Target User: Shabir Ahmad Dar (Head Cook & Mess In-charge)
 =================================================================
  Meal Planned      : Sunday Dinner
@@ -87,5 +87,5 @@ Running `python3 app.py --day Sunday --meal Dinner --menu "Kaddu / Pumpkin Dal &
 ---
 
 ## 5. Walkthrough Video & Commits
-* **3-Minute Loom / Screen Recording**: `https://www.youtube.com/watch?v=mock-demo-chenab-forecaster` *(Replace with your unlisted YouTube/Loom link)*
+* **3-Minute Loom / Screen Recording**: `https://www.youtube.com/watch?v=mock-demo-jhelum-forecaster` *(Replace with your unlisted YouTube/Loom link)*
 * **Git Commit History**: At least 5 descriptive commits distributed across the steps.

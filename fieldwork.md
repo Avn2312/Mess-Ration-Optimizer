@@ -1,7 +1,7 @@
 # Step 2: Fieldwork & Raw Data Collection
 
 ## Location & Session Context
-* **Location**: Chenab Hostel Mess, Ground Floor Kitchen & Counter, National Institute of Technology (NIT) Srinagar, Hazratbal, Srinagar, Jammu & Kashmir (190006).
+* **Location**: Jhelum Hostel Mess, Ground Floor Kitchen & Counter, National Institute of Technology (NIT) Srinagar, Hazratbal, Srinagar, Jammu & Kashmir (190006).
 * **Observation Date & Time Window**: November 22, 2026, 1:15 PM – 1:40 PM (25 minutes during Sunday Lunch peak clearing & cleanup).
 * **Environment**: Temperature around 11°C, outdoor sunny winter afternoon with cold breeze coming off Dal Lake side. Kitchen area was steamy, smelling of puris and chickpea curry, with two commercial aluminium pots boiling and one 50-litre blue plastic drum by the dishwashing sink where leftover food was being scraped.
 
@@ -11,17 +11,17 @@
 
 | Photo 1: Kitchen Preparation & Cooking Deck | Photo 2: Waste Drum & Weighing Dial Scale |
 | :---: | :---: |
-| ![Chenab Mess Cooking Deck](field_photo_kitchen.jpg) | ![Leftover Drum Weighing](field_photo_scale.jpg) |
-| *Taken: 2026-11-22 13:22 IST at Chenab Hostel Mess cook deck* | *Taken: 2026-11-22 13:36 IST near the dishwashing disposal bin* |
+| ![Jhelum Mess Cooking Deck](field_photo_kitchen.jpg) | ![Leftover Drum Weighing](field_photo_scale.jpg) |
+| *Taken: 2026-11-22 13:22 IST at Jhelum Hostel Mess cook deck* | *Taken: 2026-11-22 13:36 IST near the dishwashing disposal bin* |
 
-> *Note on Photos: Photos taken on mobile phone camera during the 20-minute field observation at Chenab Mess, NIT Srinagar. (If reviewing locally, `field_photo_kitchen.jpg` and `field_photo_scale.jpg` represent the service counter and the dishwashing waste drum).*
+> *Note on Photos: Photos taken on mobile phone camera during the 20-minute field observation at Jhelum Mess, NIT Srinagar. (If reviewing locally, `field_photo_kitchen.jpg` and `field_photo_scale.jpg` represent the service counter and the dishwashing waste drum).*
 
 ---
 
 ## The Conversation
 
 * **Person Interviewed**: **Shabir Ahmad Dar**
-* **Role**: Head Cook & Mess Inventory Supervisor, Chenab Hostel Mess, NIT Srinagar (managing cooking rations for 360 registered boys for the past 7 years).
+* **Role**: Head Cook & Mess Inventory Supervisor, Jhelum Hostel Mess, NIT Srinagar (managing cooking rations for 360 registered boys for the past 7 years).
 
 ### 3 Things Shabir Said:
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Chenab Mess Ration & Food Waste Forecaster (NIT Srinagar)
+Jhelum Mess Ration & Food Waste Forecaster (NIT Srinagar)
 Target User: Shabir Ahmad Dar (Head Cook & Mess Supervisor)
 
 Reads real field logs (data.csv) and produces a reliable, defensible
@@ -200,7 +200,7 @@ def calculate_forecast(
 def print_cli_slip(result: Dict[str, Any]):
     """Prints a clear, printable kitchen action slip for Shabir."""
     print("\n" + "=" * 65)
-    print("  CHENAB HOSTEL MESS — NIT SRINAGAR | KITCHEN ACTION SLIP")
+    print("  JHELUM HOSTEL MESS — NIT SRINAGAR | KITCHEN ACTION SLIP")
     print("  Target User: Shabir Ahmad Dar (Head Cook & Mess In-charge)")
     print("=" * 65)
     print(f" Meal Planned      : {result['target_day']} {result['target_meal']}")
@@ -254,7 +254,7 @@ def run_simple_server(data_path: str, port: int = 8080):
             html = """<!DOCTYPE html>
 <html>
 <head>
-  <title>NIT Srinagar Chenab Mess Forecaster</title>
+  <title>NIT Srinagar Jhelum Mess Forecaster</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
     body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #0f172a; color: #f8fafc; margin: 0; padding: 20px; }
@@ -271,7 +271,7 @@ def run_simple_server(data_path: str, port: int = 8080):
 </head>
 <body>
   <div class="card">
-    <h1>🍲 Chenab Hostel Mess Ration Optimizer</h1>
+    <h1>🍲 Jhelum Hostel Mess Ration Optimizer</h1>
     <p style="color:#94a3b8; font-size: 13px;">NIT Srinagar | Built for Shabir Ahmad Dar (Head Cook)</p>
     
     <label>Day of Week:</label>
@@ -342,7 +342,7 @@ def run_simple_server(data_path: str, port: int = 8080):
         def log_message(self, format, *args):
             return  # Suppress excessive server logs
 
-    print(f"Starting Chenab Mess Web Dashboard on http://localhost:{port} (Press Ctrl+C to stop)...")
+    print(f"Starting Jhelum Mess Web Dashboard on http://localhost:{port} (Press Ctrl+C to stop)...")
     server = HTTPServer(("0.0.0.0", port), MessHandler)
     try:
         server.serve_forever()
@@ -351,7 +351,7 @@ def run_simple_server(data_path: str, port: int = 8080):
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Chenab Mess Ration & Food Waste Forecaster (NIT Srinagar)")
+    parser = argparse.ArgumentParser(description="Jhelum Mess Ration & Food Waste Forecaster (NIT Srinagar)")
     parser.add_argument("--data", default="data.csv", help="Path to raw fieldwork data CSV")
     parser.add_argument("--day", default="Sunday", help="Target day of week (e.g. Sunday, Friday, Wednesday)")
     parser.add_argument("--meal", default="Dinner", help="Target meal: Lunch or Dinner")
